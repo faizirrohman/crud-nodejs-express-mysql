@@ -1,5 +1,3 @@
-CRUD NodeJs, Express dan MySQL
-
 CREATE PROJECT EXPRESS JS :
 1. npm install -g express-generator
 2. express --view=ejs nama_project
@@ -19,3 +17,6 @@ INSTALL LIBRARY PENDUKUNG :
 INSTALL NODEMON :
 1. npm install -g nodemon
 2. nodemon npm start
+
+RUNNING PROJECT CRUD :
+6. http://localhost:3000/posts/
