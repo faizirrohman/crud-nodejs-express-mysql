@@ -19,4 +19,4 @@ INSTALL NODEMON :
 2. nodemon npm start
 
 RUNNING PROJECT CRUD :
-6. http://localhost:3000/posts/
+1. http://localhost:3000/posts/
